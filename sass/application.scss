@@ -1,0 +1,7 @@
+@import 'bourbon';
+
+$color: blue;
+body {
+
+  @include linear-gradient(#f0f0f0, #ccc);
+}

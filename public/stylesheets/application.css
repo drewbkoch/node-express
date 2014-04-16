@@ -1,0 +1,7 @@
+body {
+  background-color: #f0f0f0;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f0f0f0), color-stop(100%, #ccc));
+  background-image: -webkit-linear-gradient(#f0f0f0, #ccc);
+  background-image: linear-gradient(#f0f0f0, #ccc); }
+
+/*# sourceMappingURL=application.css.map */
